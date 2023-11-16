@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+<h3>✏️axios json-server 로그인 로그아웃 UI 게시판 </h3>
+<p>
+  <img src=https://github.com/engelhyunji/week-4/assets/145903783/7648e746-b2c6-4132-8315-60f31bf04f51>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</p>
 
-## Available Scripts
+<p>
+  <img src=https://github.com/engelhyunji/week-4/assets/145903783/327ee4af-059c-4d3b-98f8-56a65ae528e2>
 
-In the project directory, you can run:
+</p>
 
-### `yarn start`
+<p>
+  <img src=https://github.com/engelhyunji/week-4/assets/145903783/6e8998b6-b3b3-49b5-afba-0162bf06c6c6>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p>
+  <img src=https://github.com/engelhyunji/week-4/assets/145903783/72c2938a-dfbe-4a2f-badc-ac345cbe1cb2>
 
-### `yarn test`
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h4>로그인 로그아웃 토근 쿠키 인증 완료지만 아직 조금 더 다듬어야한다.. 게시판 404에러를 찾아보잣.. </h4>
