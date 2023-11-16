@@ -1,3 +1,18 @@
+// // Redux 스토어를 초기화하고, 리액트 앱을 렌더하는데 필요한 구성 수행
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import { Provider } from 'react-redux';
+// import store from './store/store';
+// import App from './App';
+
+// ReactDOM.render(
+//   <Provider store={store}>
+//     <App />
+//   </Provider>,
+//   document.getElementById('root')
+// );
+
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
