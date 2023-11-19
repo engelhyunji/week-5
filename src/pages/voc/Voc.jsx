@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from 'react';
-import axios from 'axios';
-import { Link } from 'react-router-dom';
-import styled from 'styled-components';
-import CommonTable from '../../components/table/CommonTable';
-import CommonTableColumn from '../../components/table/CommonTableColumn';
-import CommonTableRow from '../../components/table/CommonTableRow';
-import VocHeader from './VocHeader';
+    import React, { useEffect, useState } from 'react';
+    import axios from 'axios';
+    import { Link } from 'react-router-dom';
+    import styled from 'styled-components';
+    import CommonTable from '../../components/table/CommonTable';
+    import CommonTableColumn from '../../components/table/CommonTableColumn';
+    import CommonTableRow from '../../components/table/CommonTableRow';
+    import VocHeader from './VocHeader';
 
     const StyledVocContainer = styled.div``;
 
@@ -26,19 +26,18 @@ import VocHeader from './VocHeader';
     const [data, setData] = useState([]);
     const [error, setError] = useState(null);
 
-    useEffect(() => {
-        const fetchData = async () => {
+    const fetchData = async () => {
         try {
-            const response = await axios.get('http://localhost:4000/board');
-            setData(response.data);
+        const response = await axios.get('http://localhost:4000/board');
+        setData(response.data);
         } catch (error) {
-            console.log(error);
-            setError(error);
+        setError(error);
         }
-        };
+    };
 
+    useEffect(() => {
         fetchData();
-    }, []);
+    }, []); 
 
     if (error) {
         return (

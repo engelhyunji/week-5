@@ -1,17 +1,50 @@
+{
+  "board": [
     {
-        "board": [
-        {
-            "id": "게시글 1",
-            "title": "리액트는 재미있어",
-            "createAt": "2023-01-02",
-            "username": "작성자1"
-        },
-        {
-            "id": "게시글 2",
-            "title": "리액트는 재미있어",
-            "createAt": "2023-01-02",
-            "username": "작성자2"
-        }
-        ]
+      "id": "게시글 1",
+      "title": "리액트는 재미있어",
+      "createAt": "2023-01-02",
+      "username": "작성자1"
+    },
+    {
+      "id": "게시글 2",
+      "title": "리액트는 재미있어",
+      "createAt": "2023-01-02",
+      "username": "작성자2"
     }
-    
+  ],
+  "category": [
+    {
+      "id": 1,
+      "email": "example@email.com",
+      "title": "카테고리 제목",
+      "content": "2023-11-20"
+    },
+    {
+      "category": {
+        "id": 1,
+        "email": "sdf",
+        "title": "fsd",
+        "content": "sdf"
+      },
+      "id": 2
+    },
+    {
+      "category": {
+        "id": null,
+        "email": "df",
+        "title": "fd",
+        "content": "fd"
+      },
+      "id": 3
+    },
+    {
+      "category": {
+        "email": "ㄴㄹ",
+        "title": "ㄴㅇㄹ",
+        "content": "ㄴㅇㄹ"
+      },
+      "id": 4
+    }
+  ]
+}
